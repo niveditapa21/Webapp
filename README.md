@@ -3,3 +3,7 @@ Installation of software on the machines using a configuration management tool :
   
   Pipeline:
   ![image](https://user-images.githubusercontent.com/110668073/230706655-47f689af-b23d-4110-8d97-327927e2f576.png)
+  
+  Wehhooks:
+  ![image](https://user-images.githubusercontent.com/110668073/230708354-a6deb8b5-0ec7-4f03-bf05-1bc09673fc57.png)
+
